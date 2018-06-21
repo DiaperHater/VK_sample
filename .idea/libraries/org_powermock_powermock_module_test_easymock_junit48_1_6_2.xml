@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org.powermock:powermock-module-test-easymock-junit48:1.6.2" type="repository">
+    <properties maven-id="org.powermock:powermock-module-test-easymock-junit48:1.6.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-module-test-easymock-junit48/1.6.2/powermock-module-test-easymock-junit48-1.6.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-api-easymock/1.6.2/powermock-api-easymock-1.6.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-api-support/1.6.2/powermock-api-support-1.6.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.2/powermock-reflect-1.6.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1/objenesis-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
